@@ -1,2 +1,3 @@
 "# Giselle-Sugyeong-Kim"
-This is Giselle sugyeong Kimm's repository
+This is Giselle sugyeong Kim's repository
+Welcome!
